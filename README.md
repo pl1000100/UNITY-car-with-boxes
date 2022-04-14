@@ -1,5 +1,5 @@
 # Car with boxes
-Simple game, car drives forward and backward, it can turn left and right. Car can collide with boxes.
+Simple unity game, car drives forward and backward, it can turn left and right. Car can collide with boxes.
 
 Steering - WASD or arrows.
 
